@@ -1,5 +1,5 @@
 # About Me:
-Hi, I’m Deeksha 👩‍💻 I’m a B.Tech Engineering student with a strong interest in Web Development, Databases, Artificial Intelligence, Machine Learning, and Deep Learning. I enjoy building meaningful projects that combine clean design with practical functionality.<br><br>I’m currently focused on improving my frontend development skills, working on DBMS-based applications, and exploring AI/ML/DL concepts through hands-on projects. I believe in learning by building and consistently improving through real-world implementations.<br><br>I’m passionate about:<br><br>🌐 Creating responsive and user-friendly websites<br><br>🗄️ Designing efficient database systems<br><br>🤖 Exploring AI, ML, and Deep Learning concepts<br><br>📚 Documenting my learning journey through projects and notes<br><br>I aim to grow as a software engineer by developing projects that are useful, well-documented.
+Hi, I’m Deeksha 👩‍💻 I’m a B.Tech Engineering student with a strong interest in Web Development, Databases, Artificial Intelligence, Machine Learning, and Deep Learning. I enjoy building meaningful projects that combine clean design with practical functionality.<br>I’m currently focused on improving my frontend development skills, working on DBMS-based applications, and exploring AI/ML/DL concepts through hands-on projects. I believe in learning by building and consistently improving through real-world implementations.<br>I’m passionate about:<br>🌐 Creating responsive and user-friendly websites<br>🗄️ Designing efficient database systems<br>🤖 Exploring AI, ML, and Deep Learning concepts<br>📚 Documenting my learning journey through projects and notes<br>I aim to grow as a software engineer by developing projects that are useful, well-documented.
 
 
 # 💻 Tech Stack:
@@ -7,6 +7,4 @@ Hi, I’m Deeksha 👩‍💻 I’m a B.Tech Engineering student with a strong i
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=deeksh2512&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=deeksh2512&icon=0&color=0)](https://visitcount.itsvg.in)
 
