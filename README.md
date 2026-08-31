@@ -1,16 +1,12 @@
-Hi, I’m Deeksha  👩‍💻
-I’m a BTech Engineering student with a strong interest in Web Development, Databases, Artificial Intelligence, Machine Learning, and Deep Learning. I enjoy building meaningful projects that combine clean design with practical functionality.
+# About Me:
+Hi, I’m Deeksha 👩‍💻 I’m a B.Tech Engineering student with a strong interest in Web Development, Databases, Artificial Intelligence, Machine Learning, and Deep Learning. I enjoy building meaningful projects that combine clean design with practical functionality.<br><br>I’m currently focused on improving my frontend development skills, working on DBMS-based applications, and exploring AI/ML/DL concepts through hands-on projects. I believe in learning by building and consistently improving through real-world implementations.<br><br>I’m passionate about:<br><br>🌐 Creating responsive and user-friendly websites<br><br>🗄️ Designing efficient database systems<br><br>🤖 Exploring AI, ML, and Deep Learning concepts<br><br>📚 Documenting my learning journey through projects and notes<br><br>I aim to grow as a software engineer by developing projects that are useful, well-documented.
 
-I’m currently focused on improving my frontend development skills, working on DBMS-based applications, and exploring AI/ML/DL concepts through hands-on projects. I believe in learning by building and consistently improving through real-world implementations.
 
-I’m passionate about:
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=deeksh2512&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-🌐 Creating responsive and user-friendly websites
+---
+[![](https://komarev.com/ghpvc/?username=deeksh2512&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🗄️ Designing efficient database systems
-
-🤖 Exploring AI, ML, and Deep Learning concepts
-
-📚 Documenting my learning journey through projects and notes
-
-I aim to grow as a software engineer by developing projects that are useful, well-documented.
